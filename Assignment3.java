@@ -283,9 +283,8 @@ public class Assignment3
 
 	public void startProblemTwo()
 	{
-
-		// Initialize user input variables.
-		int numMinutes = 60;
+		// problem 2 input
+		int numMinutes = 120;
 		int currMinute = 1;
 		Thread threads[] = new Thread[SENSORS];
 		for (int i = 0; i < SENSORS; i++)
