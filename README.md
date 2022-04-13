@@ -2,6 +2,7 @@
 
 ## How to compile
 javac Assignment3.java
+
 java Assignment3
 
 ## Approach
